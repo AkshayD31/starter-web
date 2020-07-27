@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Akshay Deshmukh akshay31d@twitter.com
 
 # THANKS
 
