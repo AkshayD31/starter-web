@@ -12,4 +12,9 @@ The purpose of this project is to teach about diff and merge.
 
 ## Deployment
 
+
+this is a simple web project, deployement can be any web server.
+
 ## How To Contribute
+
+no need to contribute.
