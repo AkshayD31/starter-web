@@ -17,7 +17,7 @@ this is a simple web project, deployement can be any web server.
 
 ## How To Contribute
 
-no need to contribute.
+Please form this repo and raise pull request.
 
 ### Copyright
 
