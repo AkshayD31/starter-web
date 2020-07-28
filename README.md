@@ -21,4 +21,4 @@ Please form this repo and raise pull request.
 
 ### Copyright
 
-this is shit. its also shit. another shitt.
+this is shit. its also shit. another shit. alright here we go again, some more shit.
